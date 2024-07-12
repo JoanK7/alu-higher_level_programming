@@ -1,5 +1,15 @@
 #!/usr/bin/python3
-"""instantiating a class"""
+
+"""
+instantiating a class
+
+"""
+
+
 class Rectangle:
-    """making an empty class"""
+    """
+    making an empty class
+
+    """
+
     pass
