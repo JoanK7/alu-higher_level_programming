@@ -1,6 +1,8 @@
 #!/usr/bin/python3
-"""Script that takes in a URL, sends a request to the URL and displays the body of the response.
-print: Error code: followed by the value of the HTTP status code if HTTP status code >= 400"""
+"""Script that takes in a URL, sends a request to the URL
+displays the body of the response.
+print: Error code: followed by value of HTTP status code
+if HTTP status code >= 400"""
 
 from sys import argv
 import requests
